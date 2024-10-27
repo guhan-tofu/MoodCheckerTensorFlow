@@ -4,8 +4,9 @@
 Made using Reactjs frontend, Flask Python backend
 ## Contributors
 
-Yousuf Ahmed
 Sri Guhanthan
+
+Yousuf Ahmed
 
 ## Details
 
